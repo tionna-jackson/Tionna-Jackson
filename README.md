@@ -1,6 +1,6 @@
 Hi, I'm Tionna Jackson- a data analyst with a background in psychology and crisis intervention. After several years supporting individuals and managing high-stakes decision making, I discovered a passion for using data to identify trends, uncover insights and drive data-informed decisions.  
 I specialize in: 
-  Data Analysis & Visualization (Excel, Tableau)
+  Data Analysis & Visualization (Excel, Tableau, Power BI)
   Data Management (SQL, data cleaning) 
   Process & People Insights 
 
