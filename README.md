@@ -11,5 +11,5 @@ My approach is using data not just to optimize workflows, but to understand and 
 ## Project focuses: 
 Compensation and Payroll 
 Optimizing operational workflows 
-Sports Analytics
+HR People Analytics
 
